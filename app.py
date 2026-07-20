@@ -1,5 +1,5 @@
 import streamlit as st
-import cv2
+import opencv-python-headless
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
