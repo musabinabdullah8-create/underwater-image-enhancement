@@ -7,4 +7,3 @@ Pillow
 matplotlib
 ultralytics
 pandas
-cv2
